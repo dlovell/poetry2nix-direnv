@@ -9,7 +9,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     nix-utils = {
-      url = "github:letsql/nix-utils/develop";
+      url = "github:letsql/nix-utils";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
